@@ -2,7 +2,7 @@
 
 A comprehensive **Server Setup & Deployment Guide** for provisioning Ubuntu servers and deploying modern web apps (Node, React, Next.js, Strapi), plus configuring web servers (*Nginx/Apache*) and SSL.
 
-📍 **Live Demo / Guide:** https://ssdg-liart.vercel.app/
+📍 **Live Demo / Guide:** [https://ssdg-liart.vercel.app/](https://server-guide.vercel.app/)
 
 ---
 
